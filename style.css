@@ -282,6 +282,7 @@ section {
 .about-containers,
 .about-details-container {
   display: flex;
+  margin-top: 3rem;
 }
 
 .about-pic {
@@ -316,7 +317,8 @@ section {
 }
 
 .text-container {
-  margin-bottom: 10rem;
+  margin-bottom: 0rem;
+  padding: 1;
 }
 
 /* EXPERIENCE SECTION */
